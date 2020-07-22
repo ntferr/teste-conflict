@@ -1,2 +1,2 @@
-comando original 1
-comando original 2
+comando alterado 1
+comando alterado 2
